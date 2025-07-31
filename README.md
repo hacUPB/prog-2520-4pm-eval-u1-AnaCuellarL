@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rEzvQPOM)
-# Repositorio Unidad \#
+# Repositorio Unidad \2
 ## Información del estudiante
-Nombre:  
-ID.:  
+Nombre: Ana Sofía Cuéllar
+ID.:  000568112
 ## Descripción del repositorio
-Reemplace estas líneas por la descripción de su repositorio
+En este repositorio estan compilados ejercicios y resumenes de las actividades correspondientes a la unidad 2 del curso de programación.
