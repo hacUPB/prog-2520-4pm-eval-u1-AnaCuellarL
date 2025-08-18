@@ -26,6 +26,23 @@
 
 ¡[imagen](Diagrama_condicionales.png)
 
+2. **Control de temperatura del motor:** Durante una inspección de rutina, se mide la temperatura de un motor de turbina. Si la temperatura es mayor a un valor crítico, se debe indicar "Peligro: sobrecalentamiento". Si está dentro del rango seguro, indicar "Operación normal". Si es demasiado baja, indicar "Motor frío – Calentar antes de operar".
+
+**Solución**
+
+**Analisis**
+|Variables de entrada| Descripción|
+|--------------------|------------|
+|temperatura_turbina| La temperatura de la turbina|
+|val_critico| Valor critico de la temperatura de la turbina|
+|val_bajo| Valor muy bajo de temperatura de la turbina|
+
+|Valores de salida| Descripción|
+|-----------------|------------|
+|ind_temperatura| La indicación de la temperatura de la turbina|
+
+**Diagrama de flujo**
+
 ## Ejercicio Bucles:
 
 2. **Registro de altitudes de vuelo:** Un sistema debe registrar la altitud de vuelo cada 10 minutos durante una hora y mostrar todas las mediciones al final.
